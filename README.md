@@ -1,16 +1,16 @@
-## Hi there 👋
+## Meu nome é Daniel Neves 
+Eu tenho 17 anos. Atualmente estou cursando o Ensino Médio , sou do segundo ano na escola Ordem e Progresso, ja fiz curso de informatica e atualmente estou fazendo curso de programação no projeto [FavelaWare](https://favelaware.animahub.com.br/home)!
 
-<!--
-**Neves456/Neves456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  align="left"
+alt="git"
+  title
+  width="30px"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+html
+java Script
+css3
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  />
+
